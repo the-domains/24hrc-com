@@ -1,0 +1,14 @@
+layout_spectrum: 0.4553191
+typography_spectrum: 0.9798707
+color:
+  saturation: 0.758585
+  brandStrength: 0.4491701
+  lightness: 0.1562248
+  brandColors:
+    - '#FFFFFF'
+    - '#8C0000'
+    - '#CE9292'
+    - '#E1BDBD'
+    - '#BA6565'
+  rhythmicContrast: 0.290473
+name: 24hrc.com
